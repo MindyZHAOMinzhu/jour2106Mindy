@@ -1,4 +1,4 @@
-# jour2106Mindy
+# jour2106 Mindy(ZHAO Minzhu)
 ## Information about myself
 * item2
 ## Hobby
