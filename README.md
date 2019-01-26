@@ -1,13 +1,10 @@
 # jour2106Mindy
-Hello~
-I am Mindy
-* item1
+## Information about myself
 * item2
-
-## head1
+## Hobby
 This is my picture:
 ![](https://pbs.twimg.com/profile_images/963376830161047553/V1zJOIJP_400x400.jpg)
-## head2
+## What I am looking for
 ### head1
 #### head1
 ##### head1
