@@ -3,7 +3,7 @@
 * #personality
 * #hometwon
 * #hobby
-I am Mindy (ZHAo Minzhu) from Chongqing in mainland China.I am Year 1 student from Communication department.
+#### I am Mindy (ZHAo Minzhu) from Chongqing in mainland China.I am Year 1 student from Communication department.
 ![](http://s3img.city.sina.com.cn/xiancheng/common/thumbnail/0/0c0eaff20b58b190c71099f77feaa13b.jpg)
 I like:
 ![](https://pbs.twimg.com/profile_images/963376830161047553/V1zJOIJP_400x400.jpg)
