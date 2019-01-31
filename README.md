@@ -1,6 +1,6 @@
 # Mindy(ZHAO Minzhu) (JOUR2106)
 ## Who I am
-I am Mindy from mainland China.I am Year 1 student from Communication department.
+I am Mindy (ZHAo Minzhu) from Chongqing in mainland China.I am Year 1 student from Communication department.
 * personality
 * hometwon
 * hobby
